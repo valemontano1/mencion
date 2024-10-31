@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../css animated"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css animated"
+	}
+}
